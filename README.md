@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Typescript, NextJS, NodeJS and React Native.
 
 ### Professional Experience
-- Technical Systems Development at Centro Universitário de Patos de Minas (Since 2021-12-28).
-- Intern Systems Development at Centro Universitário de Patos de Minas (2021-06-07 - 2021-12-22).
+- Technical Systems Development at Centro Universitário de Patos de Minas (Since 2021-12).
+- Intern Systems Development at Centro Universitário de Patos de Minas (2021-06 - 2021-12).
 
 ### My Github Stats 😉
 <div>
